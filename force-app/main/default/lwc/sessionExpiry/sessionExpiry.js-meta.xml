@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <isExposed>true</isExposed>
+    <targets>
+        <target>lightningCommunity_Page</target>
+        <target>lightningCommunity_Default</target>
+    </targets>
+</LightningComponentBundle>

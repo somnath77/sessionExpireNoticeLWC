@@ -1,0 +1,14 @@
+.headerFontCss{
+    font-family: "Expertsans Light", "Trebuchet MS", Arial, Verdana, sans-serif;
+    font-size: 2rem;
+    color: #ffffff;
+    float: left;
+}
+.logoutSSOBtnCss{
+    float: right;
+}
+[part="neutral-button"] {
+    --dxp-g-root: white;
+    --dxp-g-root-1: rgb(237, 237, 237);
+    transition: background-color 2s ease-in;
+}
